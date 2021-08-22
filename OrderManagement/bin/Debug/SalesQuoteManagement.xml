@@ -1,0 +1,200 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SalesQuoteManagement
+</name>
+</assembly>
+<members>
+<member name="P:SalesQuoteManagement.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.bangun">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.book">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.books">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.molecule1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.myspace_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.new_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.order">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.pen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.quotation_tinggi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.Setting_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesQuoteManagement.My.Resources.Resources.Shopping_Full">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SalesQuoteManagement.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.karyawanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.PelangganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProyekDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProdukDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.Quotation_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.karyawanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.PelangganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProyekRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProdukRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.Quotation_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.karyawanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.PelangganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProyekRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.ProdukRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet.Quotation_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.karyawanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.PelangganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.ProyekTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.ProdukTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.Quotation_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SalesQuoteManagement.QuotationDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SalesQuoteManagement.QuotationDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SalesQuoteManagement.QuotationDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.UpdateAll(SalesQuoteManagement.QuotationDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SalesQuoteManagement.QuotationDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

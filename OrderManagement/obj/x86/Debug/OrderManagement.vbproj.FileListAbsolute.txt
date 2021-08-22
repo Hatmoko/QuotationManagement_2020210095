@@ -1,0 +1,9 @@
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\bin\Debug\OrderManagement.xml
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.frmMain.resources
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resources.resources
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.vbproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.xml
+c:\users\office\documents\visual studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
